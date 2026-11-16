@@ -54,7 +54,7 @@ Para volver a descargar los datos de origen: `python src/descargar_datos.py`.
 Requiere Python 3.10 o superior.
 
 ```bash
-git clone <URL del repositorio>
+git clone https://github.com/Ryenka/poke-catch
 cd poke-catch
 
 python -m venv .venv
